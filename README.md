@@ -21,6 +21,28 @@
   <img alt="dev.finances" src=".github/jobscalc.png" width="100%">
 </p>
 
+## 💬 Sobre
+
+Este projeto foi realizado seguindo as aulas da Maratona Discover: Edição 02, um evento focado no desenvolvimento do Back-end de uma aplicação, utilizando Node.js, Express, EJS e banco de dados com SQLite. O front-end não foi desenvolvido durante o evento, tendo sido realizado previamente pela equipe da Rocketseat.
+
+## 🎉 Instalação
+
+Com a pasta do projeto selecionada, digite no terminal o comando a seguir para baixar as dependências:
+
+```sh
+npm install
+```
+
+## 🔥 Usage
+
+Com a pasta do projeto selecionada, digite no terminal o comando a seguir:
+
+```sh
+npm run dev
+```
+
+Depois, abra o localhost:3000 no seu browser
+
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
